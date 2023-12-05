@@ -16,33 +16,6 @@ News
 
 # Publications
 
-<div class="row">
-  <div class="column">
-    ![图片](../images/foo-bar-identity.jpg)
-  </div>
-  <div class="column">
-    [文章标题](文章链接) [PDF链接](PDF链接)
-  </div>
-</div>
+## 2023
 
-<div class="row">
-  <div class="column">
-    ![img](Z:\OneDrive - mails.ucas.ac.cn\CVGroup\Projects\xiudingcai.github.io\images\foo-bar-identity.jpg)
-  </div>
-  <div class="column">
-    [文章标题](文章链接) [PDF链接](PDF链接)
-  </div>
-</div>
-
-
-
-<div class="row">
-    <div class="column">
-        <img src="your_image_url" alt="../images/foo-bar-identity.jpg">
-    </div>
-    <div class="column">
-        <h2><a href="your_article_url">文章标题</a></h2>
-        <a href="your_pdf_url">PDF链接</a>
-    </div>
-</div>
-
+<table style="border: none; border-collapse: collapse;" border="0"><colgroup><col style="width:40%"><col style="width:60%"></colgroup><tbody><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/prediff.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>PreDiff: Precipitation Nowcasting with Latent Diffusion Models</b> <br> Zhihan Gao, Xingjian Shi, Boran Han, Hao Wang, Xiaoyong Jin, Danielle Maddix, <b>Yi Zhu</b>, Mu Li, Yuyang Wang <br> <i>Conference on Neural Information Processing Systems (NeurIPS) 2023</i> <br> <span><a href="https://arxiv.org/abs/2307.10422">arxiv</a></span>   <span><a href="https://github.com/gaozhihan/PreDiff">code</a></span></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/pomp.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition</b> <br> Shuhuai Ren, Aston Zhang, <b>Yi Zhu</b>, Shuai Zhang, Shuai Zheng, Mu Li, Alex Smola, Xu Sun <br> <i>Conference on Neural Information Processing Systems (NeurIPS) 2023</i> <br> <span><a href="https://arxiv.org/abs/2304.04704">arxiv</a></span>   <span><a href="https://github.com/amazon-science/prompt-pretraining">code</a></span></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/gfm.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>GFM: Building Geospatial Foundation Models via Continual Pretraining</b> <br> Matias Mendieta, Boran Han, Xingjian Shi, <b>Yi Zhu</b>, Chen Chen, Mu Li <br> <i>International Conference on Computer Vision (ICCV) 2023</i> <br> <span><a href="https://arxiv.org/abs/2302.04476">arxiv</a></span>   <span><a href="todo">code</a></span></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/mgm.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>Motion-Guided Masking for Spatiotemporal Representation Learning</b> <br> David Fan, Jue Wang, Shuai Liao, <b>Yi Zhu</b>, Vimal Bhat, Hector Santos-Villalobos, Rohith MV, Xinyu Li <br> <i>International Conference on Computer Vision (ICCV) 2023</i> <br> <span><a href="https://arxiv.org/abs/2308.12962">arxiv</a></span>   <span><a href="todo">code</a></span></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/lgtm.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>Tailoring Instructions to Student's Learning Levels Boosts Knowledge Distillation</b> <br> Yuxin Ren, Zihan Zhong, Xingjian Shi, <b>Yi Zhu</b>, Chun Yuan, Mu Li <br> <i>Association for Computational Linguistics (ACL) 2023</i> <br> <span><a href="https://arxiv.org/abs/2305.09651">arxiv</a></span>   <span><a href="https://github.com/twinkle0331/LGTM">code</a></span></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/simcon.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>SimCon Loss with Multiple Views for Text Supervised Semantic Segmentation</b> <br> Yash Patel, Yusheng Xie, <b>Yi Zhu</b>, Srikar Appalaraju, R. Manmatha <br> <i>arXiv preprint arXiv:2302.03432 2023</i> <br> <span><a href="https://arxiv.org/abs/2302.03432">arxiv</a></span>   <span><a href="todo">code</a></span></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/aim.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>AIM: Adapting Image Models for Efficient Video Understanding</b> <br> Taojiannan Yang, <b>Yi Zhu</b>, Yusheng Xie, Aston Zhang, Chen Chen, Mu Li <br> <i>International Conference on Learning Representations (ICLR) 2023</i> <br> <span><a href="https://arxiv.org/abs/2302.03024">arxiv</a></span>   <span><a href="https://github.com/taoyang1122/adapt-image-models">code</a></span></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/comus.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations</b> <br> Andrii Zadaianchuk, Matthaeus Kleindessner, <b>Yi Zhu</b>, Francesco Locatello, Thomas Brox <br> <i>International Conference on Learning Representations (ICLR) 2023</i> <br> <span><a href="https://arxiv.org/abs/2207.05027">arxiv</a></span></td></tr></tbody></table>
