@@ -26,7 +26,7 @@ News
   <tbody>
     <tr style="border-collapse: separate; border-spacing:30em;">
       <td style="border-collapse: collapse; border: none;">
-        <img src="https://bryanyzhu.github.io/images/comus.png" width="800">
+        <img src="https://xiudingcai.github.io//images/pcql.jpg" width="800">
       </td>
       <td style="border-collapse: collapse; border: none;">
         <b>Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control</b>
@@ -42,6 +42,24 @@ News
         </span>
         <span>
           <a href="todo">code</a>
+        </span>
+      </td>
+    </tr>
+    <tr style="border-collapse: separate; border-spacing:30em;">
+      <td style="border-collapse: collapse; border: none;">
+        <img src="https://xiudingcai.github.io/images/enco.jpg" width="800">
+      </td>
+      <td style="border-collapse: collapse; border: none;">
+        <b>Constraining Multi-scale Pairwise Features between Encoder and Decoder Using Contrastive Learning for Unpaired Image-to-Image Translation</b>
+        <br><b>Xiuding Cai</b>, Jiao Chen, Yaoyao Zhu, Beimin Wang and Yu Yao
+        <br>
+        <i>arXiv preprint arXiv:2211.10867</i>
+        <br>
+        <span>
+          <a href="https://arxiv.org/abs/2211.10867">arxiv</a>&nbsp;
+        </span>
+        <span>
+          <a href="https://github.com/XiudingCai/PyTorch-EnCo">code</a>
         </span>
       </td>
     </tr>
