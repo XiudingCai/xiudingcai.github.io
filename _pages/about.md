@@ -12,7 +12,7 @@ I am currently at UCAS PhD in progress. My research interests focus on medical i
 
 News
 ======
-**09/2023:** Our paper *Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control* was accepted by J-BHI. [[URL](https://ieeexplore.ieee.org/document/10268595)] [[arxiv](https://arxiv.org/abs/2303.10180v3)]
+**09/2023:** Our paper *Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control* was accepted by J-BHI. [[Paper](https://ieeexplore.ieee.org/document/10268595)] [[Arxiv](https://arxiv.org/abs/2303.10180v3)]
 
 Getting started
 ======
