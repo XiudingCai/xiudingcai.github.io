@@ -26,7 +26,7 @@ News
   <tbody>
     <tr style="border-collapse: separate; border-spacing:30em;">
       <td style="border-collapse: collapse; border: none;">
-        <img src="https://xiudingcai.github.io//images/pcql.jpg" width="800">
+        <img src="https://xiudingcai.github.io/images/publications/pcql.jpg" width="800">
       </td>
       <td style="border-collapse: collapse; border: none;">
         <b>Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control</b>
@@ -47,7 +47,7 @@ News
     </tr>
     <tr style="border-collapse: separate; border-spacing:30em;">
       <td style="border-collapse: collapse; border: none;">
-        <img src="https://xiudingcai.github.io/images/enco.jpg" width="800">
+        <img src="https://xiudingcai.github.io/images/publications/enco.jpg" width="800">
       </td>
       <td style="border-collapse: collapse; border: none;">
         <b>Constraining Multi-scale Pairwise Features between Encoder and Decoder Using Contrastive Learning for Unpaired Image-to-Image Translation</b>
