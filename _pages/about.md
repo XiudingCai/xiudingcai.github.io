@@ -51,7 +51,7 @@ News
       </td>
       <td style="border-collapse: collapse; border: none;">
         <b>Constraining Multi-scale Pairwise Features between Encoder and Decoder Using Contrastive Learning for Unpaired Image-to-Image Translation</b>
-        <br><b>Xiuding Cai</b>, Jiao Chen, Yaoyao Zhu, Beimin Wang and Yu Yao
+        <br><b>Xiuding Cai</b>, Yaoyao Zhu, Dong Miao, Linjie Fu and Yu Yao
         <br>
         <i>arXiv preprint arXiv:2211.10867</i>
         <br>
