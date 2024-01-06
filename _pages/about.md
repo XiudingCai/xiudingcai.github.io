@@ -12,7 +12,7 @@ I am currently at UCAS PhD in progress. My research interests focus on medical i
 
 News
 ======
-**12/2023:** Our paper *Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control* was accepted by J-BHI. [[paper](https://ieeexplore.ieee.org/document/10268595)] [[arxiv](https://arxiv.org/abs/2303.10180)]
+**12/2023:** Our paper *Rethinking the Paradigm of Content Constraints in Unpaired Image-to-Image Translation* was accepted by AAAI 2024. [[paper](https://arxiv.org/abs/2211.10867)] [[arxiv](https://arxiv.org/abs/2211.10867)] [[code](https://github.com/XiudingCai/EnCo-pytorch)]
 
 **09/2023:** Our paper *Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control* was accepted by J-BHI. [[paper](https://ieeexplore.ieee.org/document/10268595)] [[arxiv](https://arxiv.org/abs/2303.10180)]
 
@@ -38,13 +38,13 @@ News
         <i>the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)</i>
         <br>
         <span>
-          <a href="https://ieeexplore.ieee.org/document/10268595">paper</a>&nbsp;
+          <a href="https://arxiv.org/abs/2211.10867">paper</a>&nbsp;
         </span>  
         <span>
-          <a href="https://arxiv.org/abs/2303.10180">arxiv</a>&nbsp;
+          <a href="https://arxiv.org/abs/2211.10867">arxiv</a>&nbsp;
         </span>
         <span>
-          <a href="todo">code</a>
+          <a href="https://github.com/XiudingCai/EnCo-pytorch">code</a>
         </span>
       </td>
     </tr>     
