@@ -12,6 +12,8 @@ I am currently at UCAS PhD in progress. My research interests focus on medical i
 
 News
 ======
+**12/2023:** Our paper *Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control* was accepted by J-BHI. [[paper](https://ieeexplore.ieee.org/document/10268595)] [[arxiv](https://arxiv.org/abs/2303.10180)]
+
 **09/2023:** Our paper *Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control* was accepted by J-BHI. [[paper](https://ieeexplore.ieee.org/document/10268595)] [[arxiv](https://arxiv.org/abs/2303.10180)]
 
 # Publications
@@ -24,10 +26,33 @@ News
       <col style="width:60%">
   </colgroup>
   <tbody>
+    <!-- EnCo (AAAI'24) -->
+    <tr style="border-collapse: separate; border-spacing:30em;">
+      <td style="border-collapse: collapse; border: none;">
+        <img src="https://xiudingcai.github.io/images/publications/EnCo_AAAI24.jpg" width="800">
+      </td>     
+      <td style="border-collapse: collapse; border: none;">
+        <b>Rethinking the Paradigm of Content Constraints in Unpaired Image-to-Image Translation</b>
+        <br><b>Xiuding Cai</b>, Yaoyao Zhu, Dong Miao, Linjie Fu and Yu Yao
+        <br>
+        <i>the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)</i>
+        <br>
+        <span>
+          <a href="https://ieeexplore.ieee.org/document/10268595">paper</a>&nbsp;
+        </span>  
+        <span>
+          <a href="https://arxiv.org/abs/2303.10180">arxiv</a>&nbsp;
+        </span>
+        <span>
+          <a href="todo">code</a>
+        </span>
+      </td>
+    </tr>     
+    <!-- PCQL (J-BHI) -->
     <tr style="border-collapse: separate; border-spacing:30em;">
       <td style="border-collapse: collapse; border: none;">
         <img src="https://xiudingcai.github.io/images/publications/pcql.jpg" width="800">
-      </td>
+      </td>     
       <td style="border-collapse: collapse; border: none;">
         <b>Towards Real-World Applications of Personalized Anesthesia Using Policy Constraint Q Learning for Propofol Infusion Control</b>
         <br><b>Xiuding Cai</b>, Jiao Chen, Yaoyao Zhu, Beimin Wang and Yu Yao
@@ -45,6 +70,7 @@ News
         </span>
       </td>
     </tr>
+    <!-- EnCo (Arxiv) -->
     <tr style="border-collapse: separate; border-spacing:30em;">
       <td style="border-collapse: collapse; border: none;">
         <img src="https://xiudingcai.github.io/images/publications/enco.jpg" width="800">
