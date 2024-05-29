@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Xiuding Cai"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -38,13 +38,13 @@ News
         <i>the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)</i>
         <br>
         <span>
-          <a href="https://arxiv.org/abs/2211.10867"> <img src="https://img.shields.io/badge/Paper-2e75b7" alt="PDF" style="width: auto; height: 20px;"> </a>&nbsp;
+          <a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/Paper-2e75b7" alt="Paper" style="width: auto; height: 20px;"></a>&nbsp;
         </span>  
         <span>
-          <a href="https://arxiv.org/abs/2211.10867"> <img src="https://img.shields.io/badge/Arxiv-b31b1b" alt="PDF" style="width: auto; height: 20px;"> </a>&nbsp;
+          <a href="https://arxiv.org/abs/2211.10867"><img src="https://img.shields.io/badge/Arxiv-a31f34" alt="Arxiv" style="width: auto; height: 20px;"></a>&nbsp;
         </span>
         <span>
-          <a href="https://github.com/XiudingCai/EnCo-pytorch"> <img src="https://img.shields.io/badge/Code-1c1c1c" alt="PDF" style="width: auto; height: 20px;"> </a>  
+          <a href="https://github.com/XiudingCai/EnCo-pytorch"> <img src="https://img.shields.io/badge/Code-1c1c1c" alt="Code" style="width: auto; height: 20px;"> </a>  
         </span>
       </td>
     </tr>     
@@ -60,13 +60,13 @@ News
         <i>IEEE Journal of Biomedical and Health Informatics (J-BHI) 2023</i>
         <br>
         <span>
-          <a href="https://ieeexplore.ieee.org/document/10268595">paper</a>&nbsp;
+            <a href="https://ieeexplore.ieee.org/document/10268595"><img src="https://img.shields.io/badge/Paper-2e75b7" alt="Paper" style="width: auto; height: 20px;"></a>&nbsp;
         </span>  
         <span>
-          <a href="https://arxiv.org/abs/2303.10180">arxiv</a>&nbsp;
+            <a href="https://arxiv.org/abs/2303.10180"><img src="https://img.shields.io/badge/Arxiv-a31f34" alt="Arxiv" style="width: auto; height: 20px;"></a>&nbsp;
         </span>
         <span>
-          <a href="todo">code</a>
+            <a href="#TODO"> <img src="https://img.shields.io/badge/Code-1c1c1c" alt="Code" style="width: auto; height: 20px;"> </a>  
         </span>
       </td>
     </tr>
@@ -82,10 +82,10 @@ News
         <i>arXiv preprint arXiv:2211.10867</i>
         <br>
         <span>
-          <a href="https://arxiv.org/abs/2211.10867">arxiv</a>&nbsp;
+          <a href="https://arxiv.org/abs/2211.10867v1"><img src="https://img.shields.io/badge/Arxiv-a31f34" alt="Arxiv" style="width: auto; height: 20px;"></a>&nbsp;
         </span>
         <span>
-          <a href="https://github.com/XiudingCai/PyTorch-EnCo">code</a>
+            <a href="https://github.com/XiudingCai/PyTorch-EnCo"> <img src="https://img.shields.io/badge/Code-1c1c1c" alt="Code" style="width: auto; height: 20px;"> </a>  
         </span>
       </td>
     </tr>
