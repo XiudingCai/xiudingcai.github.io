@@ -38,13 +38,13 @@ News
         <i>the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)</i>
         <br>
         <span>
-          <a href="https://arxiv.org/abs/2211.10867">paper</a>&nbsp;
+          <a href="https://arxiv.org/abs/2211.10867"> <img src="https://img.shields.io/badge/Paper-2e75b7" alt="PDF" style="width: auto; height: 20px;"> </a>&nbsp;
         </span>  
         <span>
-          <a href="https://arxiv.org/abs/2211.10867">arxiv</a>&nbsp;
+          <a href="https://arxiv.org/abs/2211.10867"> <img src="https://img.shields.io/badge/Arxiv-b31b1b" alt="PDF" style="width: auto; height: 20px;"> </a>&nbsp;
         </span>
         <span>
-          <a href="https://github.com/XiudingCai/EnCo-pytorch">code</a>
+          <a href="https://github.com/XiudingCai/EnCo-pytorch"> <img src="https://img.shields.io/badge/Code-1c1c1c" alt="PDF" style="width: auto; height: 20px;"> </a>  
         </span>
       </td>
     </tr>     
@@ -91,6 +91,4 @@ News
     </tr>
   </tbody>
 </table>
-
-
 
